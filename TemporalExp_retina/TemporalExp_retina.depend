@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1625245815 source:/home/coglab/Documents/Retina/TemporalExp_retina/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<cvode/cvode.h>
+	<nvector/nvector_serial.h>
+	<sunmatrix/sunmatrix_dense.h>
+	<sunlinsol/sunlinsol_dense.h>
+	<sunmatrix/sunmatrix_band.h>
+	<sunlinsol/sunlinsol_band.h>
+	<cvode/cvode_diag.h>
+	"sunnonlinsol/sunnonlinsol_newton.h"
+	"sunnonlinsol/sunnonlinsol_fixedpoint.h"
+	<sundials/sundials_types.h>
+	</home/coglab/Documents/Retina/TemporalExp_retina/retina.h>
+
